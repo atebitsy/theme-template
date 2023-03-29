@@ -23,9 +23,10 @@
 The `name` and file name doesn't need to match.
   - `"name": "Theme Template",` === `example.json`
 
-Strings inside the `authors` object should be the following:
+Important Strings inside the `json`:
 * `name` --> The Theme name you want displayed in atebitsy's Theme Settings
 * `author` --> The author you want displayed in atebitsy's Theme Settings
+* `version` --> The version you want displayed in atebitsy's Theme Settings
 * `id` --> Your **Unique** UUID. Google how to get it. [Use this website to generate a UUID](https://www.uuidgenerator.net) or 
 [Use this VSCode Extension to generate a UUID](https://marketplace.visualstudio.com/items?itemName=netcorext.uuid-generator) 
 
