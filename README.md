@@ -5,6 +5,7 @@
 
 ## **Theme `Information` Block**
 [Use this Template to create a Dark Theme](https://github.com/atebitsy/theme-template)
+
 [Use this Template to create a Light Theme](https://github.com/atebitsy/theme-template)
 
 #### Information about your Theme
