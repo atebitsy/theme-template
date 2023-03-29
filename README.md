@@ -1,5 +1,5 @@
 # How to create a Theme for atebitsy
-> This is for Twitter **v8.49** and atebitsy **v8.49**
+> This supports Twitter **v8.49** and atebitsy **v8.49**
 
 - - - -
 
