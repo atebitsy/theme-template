@@ -26,7 +26,8 @@ The `name` and file name doesn't need to match.
 Strings inside the `authors` object should be the following:
 * `name` --> The Theme name you want displayed in atebitsy's Theme Settings
 * `author` --> The author you want displayed in atebitsy's Theme Settings
-* `id` --> Your **Unique** UUID. Google how to get it. [Use this website to generate a UUID](https://www.uuidgenerator.net)
+* `id` --> Your **Unique** UUID. Google how to get it. [Use this website to generate a UUID](https://www.uuidgenerator.net) or 
+[Use this VSCode Extension to generate a UUID](https://marketplace.visualstudio.com/items?itemName=netcorext.uuid-generator) 
 
 Color codes inside the `json` can be the following:
 * 6 character HEX --> `#RRGGBB`
