@@ -1,0 +1,1257 @@
+{
+  "name" : "Light Theme Template",
+  "author" : "author",
+  "description": "description",
+  "version": "version",
+  "GitHubRepoThemeURL": "https://github.com/atebitsy/theme-template/blob/main/Light%20Theme%20Template.json",
+  "id": "5898864e-450b-4da6-afd8-8bad0b4f02fd",
+    
+  "actionButtonOverlayColor" : {
+    "hex" : "#FFFFFFBF"
+  },
+  "activityIndicatorColor" : {
+    "hex" : "#536471FF"
+  },
+  "activityIndicatorDarkBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "activitySummaryHighlightLightColor" : {
+    "hex" : "#FFFFFF1A"
+  },
+  "affiliateBadgeBorderColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "alertColor" : {
+    "hex" : "#F4212EFF"
+  },
+  "articleCardBorderColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "automationTealLightColor" : {
+    "hex" : "#E9FEFFFF"
+  },
+  "automationTealPrimaryColor" : {
+    "hex" : "#009399FF"
+  },
+  "backgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "backgroundOverlayColor" : {
+    "hex" : "#00000026"
+  },
+  "badgeDefaultColor" : {
+    "hex" : "#536471FF"
+  },
+  "badgeOverlayColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "birdwatchAccessoryIconColor" : {
+    "hex" : "#536471FF"
+  },
+  "birdwatchIconFillColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "brandingButtonHighlightColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "brandLogoColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "businessVerifiedColor" : {
+    "hex" : "#DCAB00FF"
+  },
+  "cardDetailsBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "cellAccessoryColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "chatOnlineBorderColor" : {
+    "hex" : "#EAFAFFFF"
+  },
+  "chatOnlineColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "chatPrimaryColor" : {
+    "hex" : "#0083EBFF"
+  },
+  "chatReactionSelectedBackgroundColor" : {
+    "hex" : "#E5EAECFF"
+  },
+  "chatTopicBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "chatTopicBorderColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "chatTopicSheetShadowColor" : {
+    "hex" : "#FFFFFFB3"
+  },
+  "coinsPurchaseTargetBackgroundColor" : {
+    "hex" : "#EAFAFFFF"
+  },
+  "commerceDropCardBorderColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "commerceImageBlendColor" : {
+    "hex" : "#00000008"
+  },
+  "commerceProductCellPlaceholderImageBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "commerceProductCellPlaceholderImageColor" : {
+    "hex" : "#829AABFF"
+  },
+  "commerceProductDetailsPageBorderColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "commerceSheetHandleColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "communityBlueBackgroundColor" : {
+    "hex" : "#006FD6FF"
+  },
+  "communityBluePrimaryColor" : {
+    "hex" : "#6BC9FBFF"
+  },
+  "communityDefaultBackgroundColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "communityDefaultPrimaryColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "communityFindButtonBackgroundColor" : {
+    "hex" : "#EAFAFFFF"
+  },
+  "communityFindButtonImageColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "communityGreenBackgroundColor" : {
+    "hex" : "#007E50FF"
+  },
+  "communityGreenPrimaryColor" : {
+    "hex" : "#007E50FF"
+  },
+  "communityMagentaBackgroundColor" : {
+    "hex" : "#AF0E5AFF"
+  },
+  "communityMagentaPrimaryColor" : {
+    "hex" : "#AF0E5AFF"
+  },
+  "communityOrangeBackgroundColor" : {
+    "hex" : "#B04500FF"
+  },
+  "communityOrangePrimaryColor" : {
+    "hex" : "#B04500FF"
+  },
+  "communityPlumBackgroundColor" : {
+    "hex" : "#8D2090FF"
+  },
+  "communityPlumPrimaryColor" : {
+    "hex" : "#8D2090FF"
+  },
+  "communityPurpleBackgroundColor" : {
+    "hex" : "#5234B7FF"
+  },
+  "communityPurplePrimaryColor" : {
+    "hex" : "#5234B7FF"
+  },
+  "communityRedBackgroundColor" : {
+    "hex" : "#AE1425FF"
+  },
+  "communityRedPrimaryColor" : {
+    "hex" : "#AE1425FF"
+  },
+  "communityTealBackgroundColor" : {
+    "hex" : "#00777CFF"
+  },
+  "communityTealPrimaryColor" : {
+    "hex" : "#00777CFF"
+  },
+  "communityYellowBackgroundColor" : {
+    "hex" : "#B88200FF"
+  },
+  "communityYellowPrimaryColor" : {
+    "hex" : "#955900FF"
+  },
+  "composeEditPhotoCropGridColor" : {
+    "hex" : "#FFFFFF59"
+  },
+  "composeEditPhotoCropOverlayColor" : {
+    "hex" : "#00000080"
+  },
+  "composeEditPhotoStickerCheckmarkColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "composeEditPhotoStickerOutlineColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "composeGalleryCheckmarkColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "composeGallerySelectionIndicatorBorderColor" : {
+    "hex" : "#F1F4F5E6"
+  },
+  "composeGallerySelectionIndicatorUnfilledColor" : {
+    "hex" : "#0F141966"
+  },
+  "composeInlineReplyBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "composeOverflowCharacterBackgroundColor" : {
+    "hex" : "#F4212E33"
+  },
+  "composePollCloseBackgroundColor" : {
+    "hex" : "#000000C4"
+  },
+  "composeSelectedStateInlineReplyBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "composeTimerBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "composeTimerTextColor" : {
+    "hex" : "#37434DFF"
+  },
+  "confettiBlueColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "confettiGreenColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "confettiOrangeColor" : {
+    "hex" : "#FF7A00FF"
+  },
+  "confettiPurpleColor" : {
+    "hex" : "#7856FFFF"
+  },
+  "confettiRedColor" : {
+    "hex" : "#F91880FF"
+  },
+  "contentTitleCloseButtonColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "contentTitleColor" : {
+    "hex" : "#536471FF"
+  },
+  "contentTitleDarkColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "contentTitleLightColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "conversationHighlitedReplyConnectorColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "conversationLineColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "conversationReplyConnectorColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "darkBackgroundColor" : {
+    "hex" : "#000000FF"
+  },
+  "darkBackgroundDividerColor" : {
+    "hex" : "#FFFFFF4D"
+  },
+  "darkBackgroundOverlayColor" : {
+    "hex" : "#292F33FF"
+  },
+  "darkImagePlaceholderColor" : {
+    "hex" : "#536471FF"
+  },
+  "destructiveOutlinedButtonBorderColor" : {
+    "hex" : "#FDC9CEFF"
+  },
+  "disabledColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "dividerColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "dmBubbleIncomingColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "dmBubbleOutgoingHighlightedColor" : {
+    "hex" : "#20AB108FF"
+  },
+  "dmComposerComponentBorderColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "dmComposerSendButtonDisabledColor" : {
+    "hex" : "#829AABFF"
+  },
+  "dmComposerVoicePrimaryColor" : {
+    "hex" : "#6545DBFF"
+  },
+  "dmComposerVoiceRecordingBackgroundColor" : {
+    "hex" : "#3F2292FF"
+  },
+  "dmComposerVoiceRecordingTextColor" : {
+    "hex" : "#C5B7FFFF"
+  },
+  "dmGroupCountBackgroundColor" : {
+    "hex" : "#E5EAECFF"
+  },
+  "dmInboxCellDetailReadColor" : {
+    "hex" : "#6B7F8EFF"
+  },
+  "dmInboxCellDetailUnreadColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "dmInboxCellSelectionBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "dmInboxCellUserHandleReadColor" : {
+    "hex" : "#6B7F8EFF"
+  },
+  "dmInboxConversationSocialProofTextColor" : {
+    "hex" : "#40515EFF"
+  },
+  "dmInboxSearchHighlightColor" : {
+    "hex" : "#FFE042FF"
+  },
+  "dmInboxSwipeActionDefaultColor" : {
+    "hex" : "#37434DFF"
+  },
+  "dmInboxSwipeActionDestructiveColor" : {
+    "hex" : "#F4212EFF"
+  },
+  "dmInboxSwipeActionPinnedColor" : {
+    "hex" : "#0083EBFF"
+  },
+  "dmInboxSwipeFlagColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "dmInboxSwipeIconDefaultColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "dmInboxSwipeIconDestructiveColor" : {
+    "hex" : "#F4212EFF"
+  },
+  "dmInboxSwipeNotificationsColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "dmIncomingHighlightedColor" : {
+    "hex" : "#E5EAECFF"
+  },
+  "dmLinkSelectionIncomingColor" : {
+    "hex" : "#5364711F"
+  },
+  "dmLinkSelectionOutgoingColor" : {
+    "hex" : "#5364711F"
+  },
+  "dmLinkTextIncomingColor" : {
+    "hex" : "#1B95E0FF"
+  },
+  "dmLinkTextOutgoingColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "dmReactionPickerHighlightColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "dmShareForwardColor" : {
+    "hex" : "#9FB5C3FF"
+  },
+  "dmSummarySheetUsernameTextColor" : {
+    "hex" : "#6B7F8EFF"
+  },
+  "dmTextIncomingColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "dmTweetAttachmentBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "dmTypingIndicatorBiggerColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "dmTypingIndicatorColor" : {
+    "hex" : "#536471FF"
+  },
+  "drawerBackgroundOverlayColor" : {
+    "hex" : "#CFD9DE99"
+  },
+  "elevatedBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "elevatedBackgroundShadowColor" : {
+    "hex" : "#0000001A"
+  },
+  "endOfStreamColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "eventsScoreCardBottomParticipantFallbackColor" : {
+    "hex" : "#536471FF"
+  },
+  "eventsScoreCardThumbnailBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "eventsScoreCardTopParticipantFallbackColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "expandingButtonTutorialBackgroundColor" : {
+    "hex" : "#000000E6"
+  },
+  "faintBackgroundColor" : {
+    "hex" : "#F7F9F9FF"
+  },
+  "feedbackCenterLineColor" : {
+    "hex" : "#536471FF"
+  },
+  "fleetsComposerBlackColor" : {
+    "hex" : "#000000FF"
+  },
+  "fleetsComposerBlueColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "fleetsComposerBrownColor" : {
+    "hex" : "#965A28FF"
+  },
+  "fleetsComposerDarkBlueColor" : {
+    "hex" : "#004E9AFF"
+  },
+  "fleetsComposerDarkGreenColor" : {
+    "hex" : "#295C47FF"
+  },
+  "fleetsComposerGreenColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "fleetsComposerLightBlueColor" : {
+    "hex" : "#97E3FFFF"
+  },
+  "fleetsComposerLightOrangeColor" : {
+    "hex" : "#FF7D63FF"
+  },
+  "fleetsComposerLightPurpleColor" : {
+    "hex" : "#AAB9FFFF"
+  },
+  "fleetsComposerLightYellowColor" : {
+    "hex" : "#FFF094FF"
+  },
+  "fleetsComposerOrangeColor" : {
+    "hex" : "#FF7A00FF"
+  },
+  "fleetsComposerPurpleColor" : {
+    "hex" : "#7856FFFF"
+  },
+  "fleetsComposerRedColor" : {
+    "hex" : "#F91880FF"
+  },
+  "fleetsComposerWhiteColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "fleetsComposerYellowColor" : {
+    "hex" : "#FFD400FF"
+  },
+  "fleetsInterstitialPivotButtonColor" : {
+    "hex" : "#F91880FF"
+  },
+  "formNoInputColor" : {
+    "hex" : "#536471FF"
+  },
+  "foundMedia1Color" : {
+    "hex" : "#7856FFFF"
+  },
+  "foundMedia2Color" : {
+    "hex" : "#00BA7CFF"
+  },
+  "foundMedia3Color" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "foundMedia4Color" : {
+    "hex" : "#FFD400FF"
+  },
+  "foundMedia5Color" : {
+    "hex" : "#F91880FF"
+  },
+  "foundMedia6Color" : {
+    "hex" : "#FF7A00FF"
+  },
+  "genericNotificationTrendingFireColor" : {
+    "hex" : "#FF7A00FF"
+  },
+  "govVerifiedColor" : {
+    "hex" : "#829AABFF"
+  },
+  "groupedDividerColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "heartColor" : {
+    "hex" : "#F91880FF"
+  },
+  "heartOverDarkBackgroundColor" : {
+    "hex" : "#F91880FF"
+  },
+  "highlightBackgroundColor" : {
+    "hex" : "#ECEEF0FF"
+  },
+  "highlightDarkBackgroundColor" : {
+    "hex" : "#FFFFFF33"
+  },
+  "highlightOverlayColor" : {
+    "hex" : "#5364711F"
+  },
+  "imagePlaceholderColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "imagePlaceholderOverlayColor" : {
+    "hex" : "#FFFFFF66"
+  },
+  "immersiveExploreBackgroundColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "indicatorLabelBackgroundBlueColor" : {
+    "hex" : "#D7F6FFFF"
+  },
+  "indicatorLabelBackgroundGrayColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "indicatorLabelBackgroundGreenColor" : {
+    "hex" : "#DBF8EBFF"
+  },
+  "indicatorLabelBackgroundPlumColor" : {
+    "hex" : "#FAE0FAFF"
+  },
+  "indicatorLabelBackgroundPurpleColor" : {
+    "hex" : "#ECE8FFFF"
+  },
+  "indicatorLabelBackgroundRedColor" : {
+    "hex" : "#FEDEE3FF"
+  },
+  "indicatorLabelTextBlueColor" : {
+    "hex" : "#003886FF"
+  },
+  "indicatorLabelTextGrayColor" : {
+    "hex" : "#37434DFF"
+  },
+  "indicatorLabelTextGreenColor" : {
+    "hex" : "#004329FF"
+  },
+  "indicatorLabelTextPlumColor" : {
+    "hex" : "#520B53FF"
+  },
+  "indicatorLabelTextPurpleColor" : {
+    "hex" : "#2C116EFF"
+  },
+  "indicatorLabelTextRedColor" : {
+    "hex" : "#67070FFF"
+  },
+  "inlineCalloutBackgroundAttentionColor" : {
+    "hex" : "#FEF5ECFF"
+  },
+  "inlineCalloutBackgroundCustomColor" : {
+    "hex" : "#F5F3FFFF"
+  },
+  "inlineCalloutBackgroundErrorColor" : {
+    "hex" : "#FFF0F1FF"
+  },
+  "inlineCalloutBackgroundPrimaryColor" : {
+    "hex" : "#EAFAFFFF"
+  },
+  "inlineCalloutBackgroundSuccessColor" : {
+    "hex" : "#EDFFF9FF"
+  },
+  "inlineCalloutCustomIconAttentionColor" : {
+    "hex" : "#FF7A00FF"
+  },
+  "inlineCalloutCustomIconCriticalColor" : {
+    "hex" : "#F4212EFF"
+  },
+  "inlineCalloutCustomIconInformAlternativeColor" : {
+    "hex" : "#7856FFFF"
+  },
+  "inlineCalloutCustomIconInformColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "inlineCalloutCustomIconSuccessColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "inlineFeedbackBackgroundEmphasizedBrandColor" : {
+    "hex" : "#EAFAFFFF"
+  },
+  "inlineFeedbackBackgroundEmphasizedColor" : {
+    "hex" : "#FEF5ECFF"
+  },
+  "inlineFeedbackBorderColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "inlineTooltipBackgroundColor" : {
+    "hex" : "#EAFAFFFF"
+  },
+  "integralTweetActionColor" : {
+    "hex" : "#536471FF"
+  },
+  "intentfulSearchLatestColor" : {
+    "hex" : "#7856FFFF"
+  },
+  "intentfulSearchPeopleColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "intentfulSearchPhotosColor" : {
+    "hex" : "#FF7A00FF"
+  },
+  "intentfulSearchVideosColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "interactiveTextBackgroundColorBlue" : {
+    "hex" : "#97E3FFFF"
+  },
+  "interactiveTextBackgroundColorGray" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "interactiveTextBackgroundColorGreen" : {
+    "hex" : "#92E3BFFF"
+  },
+  "interactiveTextBackgroundColorMagenta" : {
+    "hex" : "#FD9BC9FF"
+  },
+  "interactiveTextBackgroundColorOrange" : {
+    "hex" : "#FFC692FF"
+  },
+  "interactiveTextBackgroundColorPlum" : {
+    "hex" : "#E9A7EBFF"
+  },
+  "interactiveTextBackgroundColorPurple" : {
+    "hex" : "#C5B7FFFF"
+  },
+  "interactiveTextBackgroundColorRed" : {
+    "hex" : "#FB9FA8FF"
+  },
+  "interactiveTextBackgroundColorTeal" : {
+    "hex" : "#78E4E8FF"
+  },
+  "interactiveTextBackgroundColorYellow" : {
+    "hex" : "#FFF595FF"
+  },
+  "interestPickerHighlightedColor" : {
+    "hex" : "#EAFAFFFF"
+  },
+  "interestsLikesProgressHeartIconBackgroundColor" : {
+    "hex" : "#FFF1F8FF"
+  },
+  "interestsLikesProgressHeartPlaceholderColor" : {
+    "hex" : "#E5EAECFF"
+  },
+  "itemDarkBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "legacyButtonDisabledColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "legacyButtonRegularColor" : {
+    "hex" : "#536471FF"
+  },
+  "legacyButtonWeakColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "lightImagePlaceholderColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "liveColor" : {
+    "hex" : "#F91880FF"
+  },
+  "lonelyBirdsPurpleColor" : {
+    "hex" : "#7856FFFF"
+  },
+  "mediaAttachmentProgressColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "mediaAttachmentProgressDarkBackgroundColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "mediaBadgeColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "mediaFullScreenBroadcastErrorBackgroundColor" : {
+    "hex" : "#536471FF"
+  },
+  "mediaPlayErrorColor" : {
+    "hex" : "#FFFFFF4D"
+  },
+  "mediaPlayHighlightedColor" : {
+    "hex" : "#1D9BF0CC"
+  },
+  "mediaSliderDarkRailColor" : {
+    "hex" : "#536471FF"
+  },
+  "messagingBackgroundColor" : {
+    "hex" : "#E8F5FEFF"
+  },
+  "modalSheetBackgroundOverlayColor" : {
+    "hex" : "#00000079"
+  },
+  "modalSheetBackgroundOverlayPopoverColor" : {
+    "hex" : "#00000026"
+  },
+  "moduleFooterColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "navigationBarHandleColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "navigationBarItemDarkBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "navigationBarItemShadowColor" : {
+    "hex" : "#00000066"
+  },
+  "navigationBarLogoColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "navigationBarShadowColor" : {
+    "hex" : "#B9CAD3CC"
+  },
+  "neutralButtonBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "neutralButtonHighlightColor" : {
+    "hex" : "#CFD9DEB3"
+  },
+  "newsCameraBackgroundColor" : {
+    "hex" : "#000000FF"
+  },
+  "newsCameraControlActiveColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "newsCameraControlAlertBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "newsCameraControlBackgroundColor" : {
+    "hex" : "#000000C4"
+  },
+  "newsCameraControlInactiveColor" : {
+    "hex" : "#B9CAD399"
+  },
+  "newsCameraControlRecordColor" : {
+    "hex" : "#F91880FF"
+  },
+  "newsCameraControlRecordHighlightedColor" : {
+    "hex" : "#FD9BC9FF"
+  },
+  "newsCameraGeoPickerAccentColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "nftTealPrimaryColor" : {
+    "hex" : "#00AFB6FF"
+  },
+  "notificationBadgeColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "ocfPaletteBlue0Color" : {
+    "hex" : "#EAFAFFFF"
+  },
+  "ocfPaletteBlue500Color" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "ocfPaletteGreen0Color" : {
+    "hex" : "#EDFFF9FF"
+  },
+  "ocfPaletteGreen500Color" : {
+    "hex" : "#00BA7CFF"
+  },
+  "ocfPaletteMagenta0Color" : {
+    "hex" : "#FFF1F8FF"
+  },
+  "ocfPaletteMagenta500Color" : {
+    "hex" : "#F91880FF"
+  },
+  "ocfPaletteOrange0Color" : {
+    "hex" : "#FEF5ECFF"
+  },
+  "ocfPaletteOrange500Color" : {
+    "hex" : "#FF7A00FF"
+  },
+  "ocfPalettePlum0Color" : {
+    "hex" : "#FFEFFFFF"
+  },
+  "ocfPalettePlum500Color" : {
+    "hex" : "#C936CCFF"
+  },
+  "ocfPalettePurple0Color" : {
+    "hex" : "#F5F3FFFF"
+  },
+  "ocfPalettePurple500Color" : {
+    "hex" : "#7856FFFF"
+  },
+  "ocfPaletteRed0Color" : {
+    "hex" : "#FFF0F1FF"
+  },
+  "ocfPaletteRed500Color" : {
+    "hex" : "#F4212EFF"
+  },
+  "ocfPaletteTeal0Color" : {
+    "hex" : "#E9FEFFFF"
+  },
+  "ocfPaletteTeal500Color" : {
+    "hex" : "#00AFB6FF"
+  },
+  "ocfPaletteYellow0Color" : {
+    "hex" : "#FFFDEAFF"
+  },
+  "ocfPaletteYellow500Color" : {
+    "hex" : "#FFD400FF"
+  },
+  "ocfProgressIndicatorComponentBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "ocfProgressIndicatorComponentForegroundLeftGradientColor" : {
+    "hex" : "#6BC9FBFF"
+  },
+  "ocfProgressIndicatorComponentForegroundRightGradientColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "onMediaButtonDarkBackgroundColor" : {
+    "hex" : "#000000C4"
+  },
+  "pillControlShadowColor" : {
+    "hex" : "#0000003D"
+  },
+  "pillControlTextColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "pillDefaultBackgroundColor" : {
+    "hex" : "#00000080"
+  },
+  "pillTranslucentBackgroundColor" : {
+    "hex" : "#00000099"
+  },
+  "pillWarningBackgroundColor" : {
+    "hex" : "#DF2B40D9"
+  },
+  "pointerHoverColor" : {
+    "hex" : "#0000000D"
+  },
+  "pollBarsColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "pollWinnerColor" : {
+    "hex" : "#1D9BF094"
+  },
+  "primaryButtonBackgroundColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "primaryButtonTextColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "primaryColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "primaryColorOptionBlueColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "primaryColorOptionGreenColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "primaryColorOptionOrangeColor" : {
+    "hex" : "#FF7A00FF"
+  },
+  "primaryColorOptionPurpleColor" : {
+    "hex" : "#7856FFFF"
+  },
+  "primaryColorOptionRedColor" : {
+    "hex" : "#F91880FF"
+  },
+  "primaryColorOptionYellowColor" : {
+    "hex" : "#FFD400FF"
+  },
+  "primaryOutlinedButtonBorderColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "primaryOverDarkBackgroundColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "profileModuleIconOutlineColor" : {
+    "hex" : "#E5EAECFF"
+  },
+  "progressBarTrackColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "progressBarTrackOverlayingImageColor" : {
+    "hex" : "#FFFFFFB3"
+  },
+  "promptSeparatorColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "promptSeparatorTextColor" : {
+    "hex" : "#3C4953FF"
+  },
+  "qrBlueColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "qrGreenColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "qrOrangeColor" : {
+    "hex" : "#FF7A00FF"
+  },
+  "qrPurpleColor" : {
+    "hex" : "#7856FFFF"
+  },
+  "qrRedColor" : {
+    "hex" : "#F91880FF"
+  },
+  "qrWhiteColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "relevancePromptConfirmationBackgroundColor" : {
+    "hex" : "#EDFFF9FF"
+  },
+  "relevancePromptSurveyBackgroundColor" : {
+    "hex" : "#FEF5ECFF"
+  },
+  "retweetButtonColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "retweetButtonOverDarkBackgroundColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "safetyModeModalDetailsGray700Color" : {
+    "hex" : "#536471FF"
+  },
+  "safetyModeModalSettingsBorderColor" : {
+    "hex" : "#C4CFD6FF"
+  },
+  "scrubBarActiveColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "scrubBarInactiveColor" : {
+    "hex" : "#FFFFFF33"
+  },
+  "secondaryBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "selectedTweetOutlineColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "selectedTweetShadowColor" : {
+    "hex" : "#65778633"
+  },
+  "shareMenuActionBackgroundColor" : {
+    "hex" : "#000000FF"
+  },
+  "shareMenuActionBorderColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "shareMenuActionForegroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "shareMenuActionIconColor" : {
+    "hex" : "#536471FF"
+  },
+  "sharePromptBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "sharePromptButtonBackgroundColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "sharePromptButtonForegroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "sharePromptForegroundColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "sliderShadeColor" : {
+    "hex" : "#00000099"
+  },
+  "sliderThumbGripperColor" : {
+    "hex" : "#0000004D"
+  },
+  "sliderValueShadeColor" : {
+    "hex" : "#1D9BF099"
+  },
+  "starRatingColor" : {
+    "hex" : "#536471FF"
+  },
+  "starRatingEmptyColor" : {
+    "hex" : "#53647140"
+  },
+  "statusCellOverlayColor" : {
+    "hex" : "#FFFFFFB3"
+  },
+  "statusCellOverlayHighlightedColor" : {
+    "hex" : "#ECEEF0B3"
+  },
+  "subscriptionActiveBadgeCheckmarkColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "subscriptionActiveBadgegradientBlueColor" : {
+    "hex" : "#43B3F6FF"
+  },
+  "subscriptionActiveBadgegradientGreenColor" : {
+    "hex" : "#43D2AFFF"
+  },
+  "subscriptionMarketingCarouselBackgroundColor" : {
+    "hex" : "#00154AFF"
+  },
+  "subscriptionMarketingFeatureCardBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "subscriptionMarketingFeatureCardShadowColor" : {
+    "hex" : "#0000001A"
+  },
+  "subscriptionMarketingHeaderColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "subscriptionMarketingPeriodControlBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "subscriptionMarketingPeriodControlSelectionBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "subscriptionMarketingPeriodControlSelectionTextColor" : {
+    "hex" : "#536471FF"
+  },
+  "subscriptionMarketingPeriodControlTextColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "successColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "superFollowBackgroundColor" : {
+    "hex" : "#FFEFFFFF"
+  },
+  "superFollowBadgeTextColor" : {
+    "hex" : "#C936CCFF"
+  },
+  "superFollowPrimaryColor" : {
+    "hex" : "#C936CCFF"
+  },
+  "superFollowSecondaryColor" : {
+    "hex" : "#F91880FF"
+  },
+  "superFollowsOnboardingEarningsBackgroundColor" : {
+    "hex" : "#DBF8EBFF"
+  },
+  "superFollowsOnboardingEarningsDisclaimerTextColor" : {
+    "hex" : "#009C64FF"
+  },
+  "superFollowsOnboardingEarningsSliderThumbHintTextColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "tabBarItemColor" : {
+    "hex" : "#536471FF"
+  },
+  "tabCustomizationInactiveGridCellContainerBackgroundColor" : {
+    "hex" : "#0000001A"
+  },
+  "textCollapsedResizableHeaderShadowColor" : {
+    "hex" : "#00000033"
+  },
+  "textColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "textDarkBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "textDetailsColor" : {
+    "hex" : "#536471FF"
+  },
+  "textDetailsDarkBackgroundColor" : {
+    "hex" : "#FFFFFFBF"
+  },
+  "textDetailsLightColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "textDetailsLightDarkBackgroundColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "textLightBackgroundColor" : {
+    "hex" : "#000000FF"
+  },
+  "textLinkColor" : {
+    "hex" : "#1B95E0FF"
+  },
+  "textLinkDisabledColor" : {
+    "hex" : "#1B95E04D"
+  },
+  "textPlaceholderBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "textPlaceholderColor" : {
+    "hex" : "#536471FF"
+  },
+  "ticketingOnboardingPinkColor" : {
+    "hex" : "#F91880FF"
+  },
+  "ticketingOnboardingPurpleColor" : {
+    "hex" : "#7856FFFF"
+  },
+  "ticketingRedColor" : {
+    "hex" : "#F4212EFF"
+  },
+  "ticketingTicketGreenColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "tileBackgroundColor" : {
+    "hex" : "#CFD9DECC"
+  },
+  "tileFollowButtonBorderColor" : {
+    "hex" : "#00000033"
+  },
+  "toastsBackgroundColor" : {
+    "hex" : "#E8F5FEFF"
+  },
+  "toastsBorderColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "tokenControlBorderColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "tokenControlSelectedColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "tokenControlTextColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "tokenFieldPlaceholderTextColor" : {
+    "hex" : "#536471FF"
+  },
+  "topicPillBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "translatorModeratorColor" : {
+    "hex" : "#FFD400FF"
+  },
+  "trustedFriendsGreenBackgroundColor" : {
+    "hex" : "#EDFFF9FF"
+  },
+  "trustedFriendsGreenPrimaryColor" : {
+    "hex" : "#00BA7CFF"
+  },
+  "tweetAwardsTeal0Color" : {
+    "hex" : "#E9FEFFFF"
+  },
+  "tweetAwardsTealPrimaryColor" : {
+    "hex" : "#00AFB6FF"
+  },
+  "tweetConversationAdBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "uiPickerBackgroundColor" : {
+    "hex" : "#00000000"
+  },
+  "uiPickerSelectedTextColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "unifiedCardAppRatingsStarBackgroundColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "unifiedCardAppRatingsStarGrayColor" : {
+    "hex" : "#536471FF"
+  },
+  "unifiedCardCollectionAdsImageBorderColor" : {
+    "hex" : "#E5EAECFF"
+  },
+  "unifiedCardCollectionAdsItemSelectionColor" : {
+    "hex" : "#829AABFF"
+  },
+  "unifiedCardProductExplorerBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "unifiedCardProductExplorerButtonColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "unifiedCardProductExplorerButtonTextColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "unifiedCardProductExplorerIconColor" : {
+    "hex" : "#6B7F8EFF"
+  },
+  "unifiedCardProductExplorerTransparentOverlayColor" : {
+    "hex" : "#00000066"
+  },
+  "unmutedColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "unpickableValueBackgroundColor" : {
+    "hex" : "#FFFFFFE0"
+  },
+  "unpickableValueTextColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "unreadBackgroundColor" : {
+    "hex" : "#E8F5FEFF"
+  },
+  "verifiedColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "vibePillBackgroundColor" : {
+    "hex" : "#EFF3F4FF"
+  },
+  "vibePillHighlightedColor" : {
+    "hex" : "#F7F9F9FF"
+  },
+  "vibePillSelectedColor" : {
+    "hex" : "#1D9BF0FF"
+  },
+  "vibePillTextColor" : {
+    "hex" : "#37434DFF"
+  },
+  "videoCountdownColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "vineBackgroundColor" : {
+    "hex" : "#00BF8FFF"
+  },
+  "voiceCardButtonBackgroundColor" : {
+    "hex" : "#00000099"
+  },
+  "voiceCardTextColor" : {
+    "hex" : "#FFFFFF80"
+  },
+  "voiceClusterBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "voiceClusterBorderColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "voiceClusterTextColor" : {
+    "hex" : "#000000FF"
+  },
+  "voicePausedColor" : {
+    "hex" : "#536471FF"
+  },
+  "voicePrimaryColor" : {
+    "hex" : "#7856FFFF"
+  },
+  "voiceProgressBackgroundColor" : {
+    "hex" : "#CFD9DEFF"
+  },
+  "voiceProgressColor" : {
+    "hex" : "#7856FFFF"
+  },
+  "voiceRecordingColor" : {
+    "hex" : "#F91880FF"
+  },
+  "voiceRoomCardButtonTextColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "voiceRoomCardTextColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "voiceRoomCreatePlaceholderColor" : {
+    "hex" : "#B9CAD3FF"
+  },
+  "voiceRoomDestructiveTextColor" : {
+    "hex" : "#F4212EFF"
+  },
+  "voiceTabCellBackgroundColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "voiceTabCellShadowColor" : {
+    "hex" : "#0000001A"
+  },
+  "voiceTabPodcastImageShadowColor" : {
+    "hex" : "#0F1419FF"
+  },
+  "voiceTextOverGradientColor" : {
+    "hex" : "#FFFFFFFF"
+  },
+  "voiceTitleColor" : {
+    "hex" : "#7856FFFF"
+  },
+  "warningColor" : {
+    "hex" : "#FFD400FF"
+  }
+}
